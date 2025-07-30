@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Graphic Designer
 ----------------------------------
 
-* 🌍  I'm based in Istanbul
+* 🌍  I'm based in Istanbu
 * 🖥️  See my portfolio at [efeozyurek.art](http://efeozyurek.art)
 * ✉️  You can contact me at [efeozyurekk@gmail.com](mailto:efeozyurekk@gmail.com)
 * 🚀  I'm currently working on Javascript
